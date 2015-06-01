@@ -1,5 +1,5 @@
 {
-	"name": "log4js-ain2",
+	"name": "@insidewarehouse/log4js-ain2",
 	"description": "An Ain2 based Syslog transport for log4js-node",
 	"author": "Itamar Kunik",
 	"contributors": [
